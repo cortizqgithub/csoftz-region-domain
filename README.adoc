@@ -1,0 +1,5 @@
+= csoftz-region-domain
+
+20200927-V1.0.0
+
+World Region Domain Java Classes to consume by the Spring Boot Microservices.
